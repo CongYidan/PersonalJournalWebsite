@@ -1,0 +1,13 @@
+20230509/168367354016:05:40	1c12b5f3-286a-4991-b1b8-dfe629fe3a50	SyntaxError: Unexpected token } in JSON at position 75	POST	/users	undefined
+20230511/168384413415:28:54	e56cf2d6-2f13-400f-a21b-b35920de4c9e	ReferenceError: title is not defined	POST	/notes	undefined
+20230511/168384424615:30:46	0f7df6da-a96d-4373-9cfe-5357ad19be69	ValidationError: Note validation failed: user: Cast to ObjectId failed for value "DanD" (type string) at path "user" because of "BSONError"	POST	/notes	undefined
+20230511/168384429915:31:39	f1f80e5b-3482-4f68-b862-83021bf8ab77	SyntaxError: Unexpected token D in JSON at position 14	POST	/notes	undefined
+20230511/168384439915:33:19	85af8b43-a820-4033-8b2c-6ef607c8c60e	SyntaxError: Unexpected token D in JSON at position 14	GET	/users	undefined
+20230511/168384470215:38:22	166a2bf3-b01c-41e9-a135-d69ce98a4ff5	ValidationError: Note validation failed: user: Cast to ObjectId failed for value "User/645d6b32e9b910bc735b307b" (type string) at path "user" because of "BSONError"	POST	/notes	undefined
+20230511/168384533515:48:55	0abf6b39-dd57-4545-be60-c313605a0932	SyntaxError: Unexpected token d in JSON at position 17	POST	/notes	undefined
+20230511/168384534615:49:06	082e43e2-25e6-47ab-92e9-068813cdf4b2	SyntaxError: Unexpected token ' in JSON at position 14	POST	/notes	undefined
+20230511/168384573015:55:30	050cbdb8-5175-45b6-9ab5-223773aa67c3	ValidationError: Note validation failed: user: Cast to ObjectId failed for value "ers" (type string) at path "user" because of "BSONError"	POST	/notes	undefined
+20230511/168384700416:16:44	80064bf2-41d0-45b2-a2e2-bf12c8ed02f9	ReferenceError: id is not defined	POST	/notes	undefined
+20230511/168384827016:37:50	10f00508-ea18-4c8b-b957-0219c52dc645	ValidationError: Note validation failed: user: Path `user` is required.	POST	/notes	undefined
+20230511/168385493518:28:55	2a5adb1f-d1bd-4c9e-bea8-3d1c18876493	SyntaxError: Unexpected token : in JSON at position 25	GET	/users	undefined
+20230511/168385494218:29:02	0ea0755f-dc9c-4275-8750-eadbd617abe9	SyntaxError: Unexpected string in JSON at position 24	GET	/users	undefined
